@@ -1,1 +1,4 @@
-# Project-2
+# Project 2: The Instructable
+## By Rachel Hofer
+### *Overview*
+#### **The project this week was a bit easier than the one we had last week because it was a bit shorter and I actually knew what I was doing a little bit. However I found that html is a bit harder, at least in my opinion. I decided to do a recipe on Rachael Ray's Homemade dog biscuits. I love dogs more than I love most humans and I also love food so I thought that they made a good pair. As many people, I still had to look at the resources quite often, but felt much more confident with this project and I was able to finish it a lot faster than the first one. I am becoming more and more excited for this course as we move along however, it's very exciting and I can't wait to learn more and become faster and much better at coding and being able to make and design websites!**
